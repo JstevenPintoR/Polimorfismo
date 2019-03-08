@@ -1,6 +1,6 @@
  
 /**
- *
+ * clase principal
  * @author stevenpc
  */
 public class Mein {
